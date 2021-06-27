@@ -65,6 +65,6 @@ function sendEmail() {
 
     emailjs.send('service_3zhxl1l', 'template_9b8iq26', tempParams)
         .then(function(res) {
-            console.log("será?", res.status);
+
         })
 }
