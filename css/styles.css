@@ -10702,7 +10702,7 @@
         #mainNav {
             padding-top: 1rem;
             padding-bottom: 1rem;
-            background-color: #212529;
+            background-color: #696969;
         }
         
         #mainNav .navbar-toggler {
@@ -10734,7 +10734,7 @@
         
         #mainNav .navbar-nav .nav-item .nav-link.active,
         #mainNav .navbar-nav .nav-item .nav-link:hover {
-            color: var(--bs-red);
+            color: black;
         }
         
         @media (min-width: 992px) {
@@ -10756,7 +10756,7 @@
             #mainNav.navbar-shrink {
                 padding-top: 1rem;
                 padding-bottom: 1rem;
-                background-color: #212325;
+                background-color: #696969;
             }
             #mainNav.navbar-shrink .navbar-brand {
                 font-size: 1.25em;
